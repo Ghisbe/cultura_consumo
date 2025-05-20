@@ -6,6 +6,7 @@
 
 
 Este proyecto es uno exploratorio del consumo cultural en mi ciudad, Córdoba capital, por lo que tome los datos públicos de la Secretaria de Cultura.
+Realizado en Power BI.
 
 Fuente: 
 https://cultura.cordoba.gob.ar/observatorio-cultural/
